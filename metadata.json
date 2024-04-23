@@ -1,7 +1,7 @@
 {
-    "name": "A41",
+    "name": "A41[all AVS]",
     "website": "https://www.a41.io",
-    "description": "A41 is a multi-chain validator located in Seoul, Korea that supports 20+ chains. Our mission is to bring crypto-economy to real life and we are on our way to achieving the mission by providing robust and secure infrastructure.",
+    "description": "A41 is a validator located in Seoul, Korea supporting 20+ chains. Our approach is to onboard every AVS, maximizing potential benefits and sharing them with our delegators. We ensure a thorough evaluation of each AVS and manage all potential risks before enabling slashing.",
     "logo": "https://a41-official.github.io/eigenlayer-metadata/logo.png",
     "twitter": "https://twitter.com/a41_allforone"
 }
